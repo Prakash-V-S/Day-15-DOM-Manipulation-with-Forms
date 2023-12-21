@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">My name is V S and This is tDay-15 DOM Manipulation with Forms</p>
+<p align="left">My name is V S and This is Day-15 DOM Manipulation with Forms</p>
 
 ###
 
-<p align="left">Demo : https://tranquil-fenglisu-22ba3a.netlify.app</p>
+<p align="left">Demo : https://day-15-dom-manipulation-with-forms.netlify.app</p>
 
 ###
 
